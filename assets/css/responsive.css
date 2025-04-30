@@ -5,7 +5,7 @@
 #banner .row {
     background-color: black;
     border-radius: 10px;
-    padding: 20px;
+    padding: 30px 20px;
 }
 
 
@@ -13,9 +13,9 @@
     color: #fff;
     background: #fff;
     -webkit-background-clip: text;
-    font-size: 24px;
+    font-size: 36px;
     font-weight: 700;
-    line-height: 30px;
+    line-height: 36px;
 }
 #banner p {
     color: #fa7221;
@@ -276,9 +276,18 @@ section#counter-stats {
     text-align: center;
     margin-bottom: 40px;
 }
+#project-slider .owl-carousel .owl-nav{
+    right: 3%;
+}
 .accordion-box .accordion .accordion-title h4 {
     font-size: 18px;
     font-weight: 600;
+}
+#our-blog .head {
+    padding-bottom: 10px;
+}
+#our-blog {
+    padding: 30px 0;
 }
 
 }
