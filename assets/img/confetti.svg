@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1364px" height="533px" viewBox="0 0 1364 533" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>new-confetti-bg</title>
+    <defs>
+        <linearGradient x1="31.273799%" y1="61.8503287%" x2="63.683821%" y2="15.3311248%" id="linearGradient-1">
+            <stop stop-color="#FA7221" offset="0%"></stop>
+            <stop stop-color="#FFE206" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5238875%" y1="37.8325206%" x2="103.737465%" y2="58.5318756%" id="linearGradient-2">
+            <stop stop-color="#FFE206" offset="0%"></stop>
+            <stop stop-color="#12BADC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-4.11872079%" y1="58.4845549%" x2="89.5462426%" y2="25.1779059%" id="linearGradient-3">
+            <stop stop-color="#FA7221" offset="0%"></stop>
+            <stop stop-color="#FFE206" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="85.7635527%" y1="77.7053379%" x2="20.3524832%" y2="18.8117825%" id="linearGradient-4">
+            <stop stop-color="#F22F80" offset="0%"></stop>
+            <stop stop-color="#12BADC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5238875%" y1="35.1026019%" x2="103.737465%" y2="60.4461033%" id="linearGradient-5">
+            <stop stop-color="#FFE206" offset="0%"></stop>
+            <stop stop-color="#12BADC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14.0970633%" y1="28.7104091%" x2="93.5707147%" y2="76.9106343%" id="linearGradient-6">
+            <stop stop-color="#F22F80" offset="0%"></stop>
+            <stop stop-color="#FA7221" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="62.3749317%" y1="88.6958852%" x2="39.7413437%" y2="6.43959705%" id="linearGradient-7">
+            <stop stop-color="#F22F80" offset="0%"></stop>
+            <stop stop-color="#12BADC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14.0970633%" y1="39.7110559%" x2="93.5707147%" y2="63.0055112%" id="linearGradient-8">
+            <stop stop-color="#F22F80" offset="0%"></stop>
+            <stop stop-color="#FA7221" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5238875%" y1="42.800308%" x2="103.737465%" y2="55.0484471%" id="linearGradient-9">
+            <stop stop-color="#FFE206" offset="0%"></stop>
+            <stop stop-color="#12BADC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14.0970633%" y1="32.6116845%" x2="93.5707147%" y2="71.9793139%" id="linearGradient-10">
+            <stop stop-color="#F22F80" offset="0%"></stop>
+            <stop stop-color="#FA7221" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Websites" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Websites-landing-page" transform="translate(-38.000000, -1730.000000)">
+            <g id="new-confetti-bg" transform="translate(38.000000, 1730.000000)">
+                <path d="M1276.26558,516.014367 L1278.67553,520.120712 L1278.68371,520.13405 C1278.83759,520.374125 1279.2007,520.368728 1279.34819,520.118963 L1281.78044,516 L1284,519.823839 L1281.35485,524.303366 L1281.34615,524.31891 C1281.28525,524.433966 1281.28777,524.571702 1281.35382,524.684252 L1283.97476,529.150033 L1281.73446,532.985633 L1279.32454,528.879258 L1279.31636,528.86592 C1279.16247,528.625844 1278.79936,528.631246 1278.65188,528.881015 L1276.2196,533 L1274,529.176095 L1276.64522,524.696601 L1276.65392,524.681057 C1276.71481,524.566003 1276.7123,524.42827 1276.64625,524.315723 L1274.02528,519.849967 L1276.26558,516.014367 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(1279.000000, 524.500000) scale(1, -1) translate(-1279.000000, -524.500000) "></path>
+                <path d="M4.71815159,126 L9.02585426,126.009075 L11.5579359,130.463246 L11.5668809,130.478168 C11.6347707,130.585692 11.7524971,130.651063 11.8796332,130.650721 L16.8383545,130.637303 L19,134.398336 L14.4472976,134.410607 L14.4320583,134.410947 C14.1545852,134.422586 13.9836318,134.730241 14.1236262,134.976501 L16.4109221,139 L12.1032195,138.990925 L9.61393717,134.611964 L9.60499207,134.597043 C9.53710155,134.489519 9.41937494,134.424149 9.29223891,134.424491 L4.16160844,134.438315 L2,130.677348 L6.72457891,130.664605 C7.01096997,130.663833 7.19078642,130.34945 7.04824942,130.098714 L4.71815159,126 Z" id="Combined-Shape" fill="url(#linearGradient-2)" fill-rule="nonzero" transform="translate(10.500000, 132.500000) scale(1, -1) translate(-10.500000, -132.500000) "></path>
+                <polygon id="Path-4" fill="url(#linearGradient-3)" transform="translate(31.500000, 383.500000) scale(1, -1) translate(-31.500000, -383.500000) " points="25 378 38 378 31.5 389"></polygon>
+                <polygon id="Path-4" fill="url(#linearGradient-4)" transform="translate(93.500000, 214.500000) scale(-1, 1) translate(-93.500000, -214.500000) " points="87 209 100 209 93.5 220"></polygon>
+                <polygon id="Path-5" fill="url(#linearGradient-4)" transform="translate(1259.500000, 459.500000) scale(1, -1) translate(-1259.500000, -459.500000) " points="1259.75312 454 1253 465 1266 465"></polygon>
+                <polygon id="Path-6" fill="url(#linearGradient-5)" transform="translate(1357.500000, 18.500000) scale(1, -1) translate(-1357.500000, -18.500000) " points="1351 13 1364 13 1357.64119 24"></polygon>
+                <polygon id="Path-7" fill="url(#linearGradient-6)" transform="translate(1181.500000, 294.500000) scale(1, -1) translate(-1181.500000, -294.500000) " points="1175 289 1188 289 1181.5 300"></polygon>
+                <polygon id="Path-8" fill="url(#linearGradient-4)" transform="translate(6.500000, 502.500000) scale(1, -1) translate(-6.500000, -502.500000) " points="0 508 13 508 6.6411915 497"></polygon>
+                <polygon id="Path-9" fill="url(#linearGradient-7)" transform="translate(1328.000000, 146.500000) scale(1, -1) translate(-1328.000000, -146.500000) " points="1323 146.579933 1327.9892 138 1333 146.369853 1327.9892 155"></polygon>
+                <polygon id="Path-9" fill="url(#linearGradient-8)" transform="translate(1161.500000, 46.000000) scale(1, -1) translate(-1161.500000, -46.000000) " points="1158.64217 41.14485 1170 41 1164.42007 50.846834 1153 51"></polygon>
+                <polygon id="Path-9" fill="url(#linearGradient-9)" transform="translate(1324.500000, 429.000000) scale(1, -1) translate(-1324.500000, -429.000000) " points="1321.64217 433.85515 1333 434 1327.42007 424.153166 1316 424"></polygon>
+                <path d="M52.1666314,364.536958 L57.2525774,364.542604 L57.2714847,364.542141 C57.3970055,364.535837 57.5113038,364.46566 57.5744537,364.354892 L60.0482603,360.01579 L64.3544486,360 L62.0832192,363.983809 L62.0750316,363.998918 C61.9475595,364.246837 62.1253521,364.548085 62.4059238,364.548401 L67,364.5536 L64.8334329,368.312622 L59.8334591,368.306986 L59.8145516,368.307449 C59.6890297,368.313752 59.5747301,368.38393 59.5115797,368.494699 L56.9519678,372.984248 L52.645844,373 L55.0028145,368.865781 L55.0110021,368.850672 C55.1384744,368.602752 54.9606797,368.301503 54.6801068,368.301189 L50,368.296018 L52.1666314,364.536958 Z" id="Combined-Shape" fill="url(#linearGradient-10)" fill-rule="nonzero" transform="translate(58.500000, 366.500000) scale(1, -1) translate(-58.500000, -366.500000) "></path>
+                <path d="M105.166631,4.53695808 L110.252577,4.54260424 L110.271485,4.54214071 C110.397006,4.53583741 110.511304,4.46565973 110.574454,4.35489166 L113.04826,0.0157895265 L117.354449,-8.34887715e-14 L115.083219,3.98380865 L115.075032,3.99891773 C114.94756,4.2468369 115.125352,4.5480849 115.405924,4.54840064 L120,4.55359976 L117.833433,8.31262188 L112.833459,8.30698588 L112.814552,8.30744927 C112.68903,8.31375169 112.57473,8.38392963 112.51158,8.49469869 L109.951968,12.984248 L105.645844,13 L108.002815,8.86578124 L108.011002,8.85067209 C108.138474,8.60275184 107.96068,8.30150304 107.680107,8.30118948 L103,8.29601773 L105.166631,4.53695808 Z" id="Combined-Shape" fill="url(#linearGradient-10)" fill-rule="nonzero" transform="translate(111.500000, 6.500000) scale(1, -1) translate(-111.500000, -6.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

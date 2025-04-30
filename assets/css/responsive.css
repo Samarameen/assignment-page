@@ -1,0 +1,386 @@
+
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+#banner .row {
+    background-color: black;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+
+#banner .content h2 {
+    color: #fff;
+    background: #fff;
+    -webkit-background-clip: text;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+}
+#banner p {
+    color: #fa7221;
+    font-size: 18px;
+    padding-top: 20px;
+}
+#bg {
+    background: linear-gradient(180deg, #f96e27 0%, #f22f80 30%, #12badc 60%, #5fc458 100%);
+    padding: 40px 0 80px;
+    margin-top: -20px;
+}
+#about-us .content-box h2 {
+    color: #000;
+    font-size: 26px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    line-height: 35px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+#about-us .content-box .box img {
+        width: 70px;
+        position: absolute;
+        top: -30px;
+        right: -5px;
+}
+#about-us .content-box .box {
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px 10px;
+    text-align: center;
+    height: 700px;
+}
+#about-us .content-box .box h3 {
+    font-size: 24px;
+    font-weight: 800;
+    text-transform: capitalize;
+    margin-bottom: 40px;
+    -webkit-text-fill-color: transparent !important;
+    background: -webkit-linear-gradient(0deg, #f22f80, #f96e27) !important;
+    -webkit-background-clip: text !important;
+}
+#about-us .content-box .box p {
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 300;
+}
+section#counter-stats {
+    margin-top: -100px;
+    z-index: 99;
+    position: relative;
+}
+.stats {
+    opacity: 1;
+    background-color: #000;
+    border-radius: 9999px;
+    box-shadow: 0 11px 26px 0 rgba(0, 0, 0, .07);
+    display: flex;
+    height: 120px;
+    width: 120px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.stats .counting {
+    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(0deg, #f22f80, #f96e27);
+    -webkit-background-clip: text;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 50px;
+    margin: 0;
+    padding: 0;
+}
+#plus::after {
+    content: "\f067";
+    font-family: 'Font Awesome 5 Pro';
+    font-size: 20px;
+}
+.stats p {
+    color: #fff;
+    font-size: 10px;
+    text-align: center;
+    padding-top: 0;
+}
+.mt-custom2 {
+    margin-top: 0;
+}
+.mt-custom3 {
+    margin-top: 50px;
+}
+#services-us .ser-box{
+    padding: 0px 25px 60px;
+}
+#services-us .ser-box .lefty .des {
+    padding-left: 0px;
+    margin-bottom: 10px;
+}
+#services-us .h-100 {
+    height: 100%;
+    padding: 10px 0px;
+}
+#services-us .request-box .right-flex{
+    display: block;
+    text-align: center;
+}
+#services-us .request-box .right-flex a {
+    background-color: var(--primary-color);
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 30px;
+    border: 1px solid #FFFFFF;
+}
+#services-us .request-box .right-flex p {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 500;
+    padding-right: 0;
+    padding: 15px 0;
+}
+#services-us .request-box::before{
+    background-color: transparent;
+}
+#technology {
+    background-color: #fff;
+}
+#technology .head h2 {
+    color: #000;
+    font-weight: 700;
+    font-size: 28px;
+}
+#technology .head p {
+    color: #000;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 4px;
+}
+
+#technology .tab {
+        font-size: 10px;
+        padding: 15px 2px;
+        font-weight: 600;
+        cursor: pointer;
+        color: #000;
+        text-align: center;
+    }
+#technology .tech-des {
+    padding-left: 0;
+}
+#technology .content-item{
+    padding: 0;
+}
+#technology .tech-des {
+    padding-left: 0;
+    margin-top: 20px;
+}
+.tech-des button.learn-more {
+    width: 18rem;
+}
+#testimonials{
+    padding: 40px 0 0;
+}
+.testimonial{
+    margin-bottom: 20px;
+}
+
+#testimonials h2.head {
+    color: #fff;
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 60px;
+    font-weight: 900;
+}
+.about-area {
+    padding: 20px 0;
+}
+#our-blog .head h2 {
+    color: #000;
+    font-weight: 700;
+    font-size: 28px;
+    text-transform: capitalize;
+    text-align: center;
+}
+#our-blog .h-100 {
+    height: 100%;
+    padding: 20px 0px;
+}
+.company-formation-area {
+    padding: 0px 0;
+}
+.company-formation-area .title p {
+    color: #000;
+    font-weight: 700;
+    font-size: 28px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.footer-tops .box h3 {
+    color: #fff;
+    font-weight: 600;
+    font-size: 32px;
+    -webkit-text-fill-color: transparent !important;
+    background: -webkit-linear-gradient(0deg, #f22f80, #f96e27) !important;
+    -webkit-background-clip: text !important;
+    text-transform: capitalize;
+}
+.footer-tops .box span {
+    color: #fff;
+    font-weight: 600;
+    font-size: 12px;
+}
+.footer-tops .box p {
+    color: #fff;
+    font-size: 12px;
+    line-height: 22px;
+    max-width: 800px;
+    margin: 30px auto 0;
+}
+#services .head h2 {
+    color: #fff;
+    font-size: 28px;
+}
+#client .head h2 {
+    color: #fff;
+    font-size: 28px;
+}
+#projects .head h2 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 28px;
+    text-transform: uppercase;
+}
+.services-area .title h2 {
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 27px;
+    color: #000;
+    font-weight: 400;
+}
+.services-area {
+    background-color: #f4f4f4;
+    padding: 40px 0;
+}
+#testi-slider .owl-carousel .owl-nav {
+    top: -25px;
+ }
+
+ #faq h2 {
+    color: #000;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.accordion-box .accordion .accordion-title h4 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+}
+
+
+ @media (min-width: 768px) and (max-width: 1024px) {
+
+    #about-us .content-box h2{
+        width: 90%;
+    }
+
+    #banner .content h2 {
+    color: #fff;
+    background: #fff;
+    -webkit-background-clip: text;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 40px;
+}
+#banner p {
+    color: #fa7221;
+    font-size: 16px;
+    padding-top: 20px;
+}
+#bg {
+    background: linear-gradient(180deg, #f96e27 0%, #f22f80 30%, #12badc 60%, #5fc458 100%);
+    padding: 100px 0 80px;
+    margin-top: -50px;
+}
+#about-us .content-box .box {
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    padding: 100px;
+    text-align: center;
+    height: 700px;
+}
+#about-us .content-box .box img {
+    width: 110px;
+    position: absolute;
+    top: -36px;
+    right: -25px;
+}
+#about-us .content-box .box {
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    padding: 70px;
+    text-align: center;
+    height: 700px;
+}
+#about-us .content-box .box p {
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 300;
+}
+.stats {
+    opacity: 1;
+    background-color: #000;
+    border-radius: 9999px;
+    box-shadow: 0 11px 26px 0 rgba(0, 0, 0, .07);
+    display: flex;
+    height: 150px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.stats .counting {
+    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(0deg, #f22f80, #f96e27);
+    -webkit-background-clip: text;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+}
+#plus::after {
+    content: "\f067";
+    font-family: 'Font Awesome 5 Pro';
+    font-size: 20px;
+}
+.stats p {
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 10px;
+}
+.mt-custom2 {
+    margin-top: 0;
+}
+.mt-custom3 {
+    margin-top: 50px;
+}
+
+
+ }
+
+
+
